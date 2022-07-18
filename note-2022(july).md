@@ -20,6 +20,15 @@
 6. created package order store request;
 7. created package order component;
 
+## date(18/07/2022) - update
+
+#### ---------BO-admin-----------
+
+1. rearranged the column of package order;
+2. debugged all the problems for creating package order;
+3. auto-update tat on package field;
+4. fixed the query selector of creating package page;
+
 
 
    
