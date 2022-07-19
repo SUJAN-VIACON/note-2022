@@ -29,6 +29,15 @@
 3. auto-update tat on package field;
 4. fixed the query selector of creating package page;
 
+## date(19/07/2022) - update
+
+#### ---------BO-admin-----------
+
+1. debugged and fixed transaction for package order ;
+2. created package order table;
+3. create package order table filter;
+4. fixed all the issues;
+
 
 
    
