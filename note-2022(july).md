@@ -39,5 +39,15 @@
 4. fixed all the issues;
 
 
+## date(20/07/2022) - update
+
+#### ---------BO-admin-----------
+
+1. DA DR ordering problems solved ;
+2. created package order's order status table;
+3. created order status show page;
+4. debugged issues;
+
+
 
    
