@@ -49,5 +49,17 @@
 4. debugged issues;
 
 
+## date(21/07/2022) - update
+
+#### ---------BO-admin-----------
+
+1. created save package order module ;
+2. fixed error for paypal transaction for package order;
+3. create table for saved packaged order;
+4. debugged the issues;
+
+
+
+
 
    
